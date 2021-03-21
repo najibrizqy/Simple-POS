@@ -23,4 +23,4 @@
   4. Type `react-native run-android` to develop or `gradlew assembleRelease` in android folder to release app
   
 ## Download The Apk
-  You can download the apk [here](https://drive.google.com/drive/folders/18JeMpkcQc5aMw8CEjtCaDE7y6j8wiw88?usp=sharing)
+  You can download the apk [here](https://drive.google.com/file/d/1mFNKxb5eWkAen67qt4mPwXJBSaC-7176/view?usp=sharing)
